@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: <center> <p style="color:#000059"> Curriculum Vitae </p> </center>
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering in Electronics and Communication, VTU Belagavi, India, 2018.
 
 Work experience
 ======
