@@ -24,8 +24,9 @@ Education
 -Created the WEB API with ASP.NET CORE (4.6 frameworks) and made connection to the DB2 database.
 -Supporting and enhancing the production issues in various .NET application.
 -Worked on SQL SERVER 2016 and IBM DB2 database.
-###Infosys Ltd, Mangaluru, India   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           09/2018 – 05/2012  
-<i> Machine Learning Intern | Image Processing and Computer Vision </i>
+
+### Infosys Ltd, Mangaluru, India    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           09/2018 – 05/2012  
+<i> Technology Analyst | Dot Net Developer </i>
 -Worked on many CR changes(created the MVC design, and used HTML, and CSS for the UI work).
 -worked on ASPOSE upgrade, Kendo UI,and jquery upgrade(upgrade to the new Kendo version
 with the script bundles in the application)
