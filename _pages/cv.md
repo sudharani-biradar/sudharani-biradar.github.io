@@ -13,9 +13,9 @@ Education
 ======
 * Bachelor of Engineering in Electronics and Communication, VTU Belagavi, India, 2018.
 
-Related Coursework:
+Related Coursework
 ======
-* C/C++ programming, Logic design, Microprocessors, Digital signal processing,Software engineering
+* C/C++ programming, Logic design, Microprocessors, Digital signal processing,Software engineering.
   
 ## Work experience 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -47,7 +47,7 @@ database,Entity framework,CI/CD \
 <b> IDEs: </b> Visual Studio 2017/2019/2022\
 <b> Languages: </b> English- Proficient
   
-Certifications
+## Certifications
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Infosys C# certified programmer
 - Infosys MVC certified programmer
