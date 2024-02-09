@@ -13,6 +13,10 @@ Education
 ======
 * Bachelor of Engineering in Electronics and Communication, VTU Belagavi, India, 2018.
 
+Related Coursework:
+======
+* C/C++ programming, Logic design, Microprocessors, Digital signal processing,Software engineering
+  
 ## Work experience 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tata Consultancy Service (TCS), Bengaluru, India      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         05/2022 – 05/2023  
@@ -35,33 +39,16 @@ Education
 - Worked on the EMAIL NOTIFICATION using GRAP API provided by the Microsoft.
 - Designed and develop the Business layer, Data access layer in various application.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Skills 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<b> Programming: </b> C,Object-oriented programming with C++ and C-Sharp,JavaScript,HTML,CSS,MVC5,SQL,IBM DB2
+database,Entity framework,CI/CD \
+<b> Operating System: </b> Windows-7/10, Docker \
+<b> IDEs: </b> Visual Studio 2017/2019/2022\
+<b> Languages: </b> English- Proficient
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Certifications
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Infosys C# certified programmer
+- Infosys MVC certified programmer
+- Infosys global agile developercertification.
