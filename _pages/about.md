@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, Welcome to my GitHub.io portfolio!"
+title: "Hello, Welcome to my Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
