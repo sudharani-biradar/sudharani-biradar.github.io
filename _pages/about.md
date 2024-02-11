@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Hello, Welcome to my GitHub.io portfolio!"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
