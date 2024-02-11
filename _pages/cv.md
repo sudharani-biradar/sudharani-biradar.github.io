@@ -52,5 +52,6 @@ database,Entity framework,CI/CD \
 - Infosys C# certified programmer
 - Infosys MVC certified programmer
 - Infosys global agile developercertification.
-👉 <a href="https://sudharani-biradar.github.io/files/sudharani.biradar.pdf"> Download my CV here</a>
+
+ 👉 <a href="https://sudharani-biradar.github.io/files/sudharani.biradar.pdf"> Download my CV here</a>
 
