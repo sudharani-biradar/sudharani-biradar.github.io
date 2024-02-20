@@ -33,7 +33,7 @@ Related Coursework
 <i> Technology Analyst | Dot Net Developer </i>
 - Developed a web application using MVC design, HTML, and CSS.
 - worked on ASPOSE upgrade, Kendo UI,and jquery upgrade(upgrade to the new Kendo version
-  with the script bundles in the application)
+  with the script bundles in the application).
 - Worked on generating the Minified CSS.
 - Made script changes in the backend using SQL server.
 - Worked on the Email notification using GRAP API provided by the Microsoft.
@@ -42,7 +42,7 @@ Related Coursework
 ## Skills 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <b> Programming: </b> Entity framework, ADO .Net, Object-oriented programming with C# .Net, MVC5
-JavaScript, HTML, CSS, SQL, IBM DB2, CI/CD Pipelines, Agile \
+                 JavaScript, HTML, CSS, SQL, IBM DB2, CI/CD Pipelines, Agile \
 <b> Operating System: </b> Windows-7/10, Docker \
 <b> IDEs: </b> Visual Studio 2017/2019/2022,SQL Server management studio 2016, IBM DB2 Tool.\
 <b> Languages: </b> German - A1, English - Proficient, Kannada - Native.
