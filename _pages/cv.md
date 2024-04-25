@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Bachelor of Engineering in Electronics and Communication, VTU Belagavi, India, 2018.
+* German Integration Course, Inlingua, Ulm, Germany 02/2024-present
 
 Related Coursework
 ======
@@ -21,28 +22,25 @@ Related Coursework
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tata Consultancy Service (TCS), Bengaluru, India      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         05/2022 – 05/2023  
 <i> Systems Engineer | Dot Net Developer </i>
-- Designing and developingweb applications using Microsoft ASP.NET.
-- Application development in Scrum (Agile) environment as well as Waterfall model projects.
-- Worked on developing the application using 4.5/4.6 framework using visual studio 2017/2019/2022.
-- Executed the application functions with HTML, CSS, and Microsoft Technology skills.
-- Created the WEB API with ASP.NET CORE (4.6 frameworks) and made connection to the DB2 database.
-- Supporting and enhancing the production issues in various .NET application.
-- Worked on SQL SERVER 2016 and IBM DB2 database.
+- Collaborating drug data from different databases, transform, and store the curated data in a separate database
+- Develop stored procedures in SQL to perform data manipulation operations
+- Develop RESTful API to fetch the drug information from the curated database and display it to the user
+- Application development/deployment in Scrum (Agile) environment as well as Waterfall model using Git CI/CD
+- Supporting and enhancing the production issues in various .NET applications (L2/L3 Support)
+- Communicate to clients about the changing requirements and the status of the application development/issues
 
 ### Infosys Ltd, Mangaluru, India    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           09/2018 – 05/2022  
 <i> Technology Analyst | Dot Net Developer </i>
-- Developed a web application using MVC design, HTML, and CSS.
-- worked on ASPOSE upgrade, Kendo UI,and jquery upgrade(upgrade to the new Kendo version
-  with the script bundles in the application).
-- Worked on generating the Minified CSS.
-- Made script changes in the backend using SQL server.
-- Worked on the Email notification using GRAP API provided by the Microsoft.
-- Designed and develop the Business layer, Data access layer in various application.
+- Migration of VB .NET insurance application into C# .NET MVC5 architecture along with Kendo UI upgrade
+- UI/UX development of insurance application with functionalities like register new user, renew policies,
+  retain/remove information, generate the insurance document
+- Automated email notification of the generated policy documents to users and insurance provider using GRAP API
+- Building, testing, and deploying application using TFS CI/CD pipeline
   
 ## Skills 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<b> Programming: </b> Entity framework, ADO .Net, Object-oriented programming with C# .Net, MVC5
-                 JavaScript, HTML, CSS, SQL, IBM DB2, CI/CD Pipelines, Agile \
+<b> Programming: </b> Entity framework, ADO .Net, Object-oriented programming with C# .Net, MVC5,
+                  JavaScript, HTML, CSS, SQL, IBM DB2, RESTful Web API \
 <b> Operating System: </b> Windows-7/10, Docker \
 <b> IDEs: </b> Visual Studio 2017/2019/2022,SQL Server management studio 2016, IBM DB2 Tool.\
 <b> Languages: </b> German - A1, English - Proficient, Kannada - Native.
@@ -52,6 +50,7 @@ Related Coursework
 - Infosys C# certified programmer
 - Infosys MVC certified programmer
 - Infosys global agile developercertification.
+- Build Web apps with ASP.NET Core
 
- 👉 <a href="https://sudharani-biradar.github.io/files/sudharani_biradar.pdf"> Download my CV here</a>
+ 👉 <a href="https://sudharani-biradar.github.io/files/sudharani-biradar.pdf"> Download my CV here</a>
 
