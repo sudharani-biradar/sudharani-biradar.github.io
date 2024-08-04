@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
+* Master of Science in Intelligent Systems, Ulm, Germany, 09/2024-Present
+* German Integration Course, Inlingua, Ulm, Germany 02/2024-08/2024
 * Bachelor of Engineering in Electronics and Communication, VTU Belagavi, India, 2018.
-* German Integration Course, Inlingua, Ulm, Germany 02/2024-present
 
 Related Coursework
 ======
-* C/C++ programming, Logic design, Microprocessors, Digital signal processing,Software engineering.
+* C/C++ programming,Digital signal processing,Software engineering.
   
 ## Work experience 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
