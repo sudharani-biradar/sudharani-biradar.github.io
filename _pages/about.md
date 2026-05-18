@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-\
+
 ## Hi, I'm Sudharani 👋
 
 I am a Software Engineer and AI/ML enthusiast with 5 years of industry experience in full-stack software development and a strong academic focus on Artificial Intelligence and Machine Learning.
