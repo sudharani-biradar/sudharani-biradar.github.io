@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Hi, I'm Sudharani 👋
+## I'm Sudharani 👋
 
 I am a Software Engineer and AI/ML enthusiast with 5 years of industry experience in full-stack software development and a strong academic focus on Artificial Intelligence and Machine Learning.
 
@@ -18,7 +18,6 @@ Currently, I am completing my Master’s in Artificial Intelligence and Software
 ### Interests
 - Artificial Intelligence and Machine Learning
 - LLM-based software testing
-- Test automation and software quality
 - Full-stack .NET development
 - Intelligent and reliable software systems
 
