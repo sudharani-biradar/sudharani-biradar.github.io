@@ -56,10 +56,12 @@ redirect_from:
 - Built, tested, and deployed applications using TFS CI/CD pipelines.  
 - Worked with SQL Server, backend logic, database integration, debugging, and application enhancements.  
 
-## Master’s Thesis
+## Master’s Thesis and working student
 
 **AI-driven Automated Software Testing using Large Language Models**
-
+- Implemented Python-based test cases to validate embedded hardware board functionality, improving the reliability and correctness of hardware–software
+- Performed software testing and debugging for embedded components by analyzing failures and verifying system behavior against expected requirements.
+- Contributed to internal software tooling and web-based interfaces through UI improvements, frontend logic changes, and feature enhancements.
 - Developed an LLM-based workflow for intelligent test case generation, refinement, and quality evaluation.  
 - Applied prompt engineering techniques to generate executable test cases for software APIs.  
 - Integrated quality assessment methods such as compilation checks, static analysis, assertion quality evaluation, execution feedback, and mutation-based fault injection.  
@@ -78,6 +80,7 @@ redirect_from:
 
 ## Certifications
 
+- Fundamentals of Building AI Agents
 - Infosys C# Certified Programmer  
 - Infosys MVC Certified Programmer  
 - Infosys Global Agile Developer Certification  
