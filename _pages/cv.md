@@ -83,4 +83,4 @@ redirect_from:
 - Infosys Global Agile Developer Certification  
 - Build Web Apps with ASP.NET Core  
 
-👉 [Download my CV here](https://sudharani-biradar.github.io/files/sudharani-biradar.pdf)
+👉 [Download my CV here](https://sudharani-biradar.github.io/files/sudha_cv.pdf)
