@@ -21,7 +21,7 @@ redirect_from:
 
 - **Bachelor of Engineering in Electronics and Communication**  
   Visvesvaraya Technological University, Belagavi, India  
-  2018  
+  08/2014 - 06/2018  
 
 ## Related Coursework
 
