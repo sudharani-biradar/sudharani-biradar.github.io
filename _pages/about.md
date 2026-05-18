@@ -7,4 +7,24 @@ redirect_from:
   - /about.html
 ---
 \
-I am a software engineer with industry experience in .NET development and an academic focus on Artificial Intelligence and Machine Learning. I have worked on developing efficient and scalable software solutions using C#, ASP.NET, MVC, and SQL Server, with a strong ability to translate requirements into practical applications. I am currently pursuing a Master’s in Artificial Intelligence and Software Applications, with expected graduation in May 2026. As part of my studies, I have built a solid foundation in machine learning, core AI concepts, and autonomous systems. My master’s thesis focuses on AI-driven automated testing, particularly the use of Large Language Models for intelligent test case generation and refinement.
+## Hi, I'm Sudharani 👋
+
+I am a Software Engineer and AI/ML enthusiast with 5 years of industry experience in full-stack software development and a strong academic focus on Artificial Intelligence and Machine Learning.
+
+My background includes developing enterprise applications using C#, .NET, ASP.NET MVC, SQL Server, JavaScript, HTML, and CSS. I have worked across the software development lifecycle, including requirement analysis, user story refinement, feature development, testing, debugging, deployment support, and production issue resolution.
+
+Currently, I am completing my Master’s in Artificial Intelligence and Software Applications, with thesis submission scheduled for May 2026. My thesis focuses on AI-driven automated software testing using Large Language Models for intelligent test case generation, refinement, and quality evaluation.
+
+### Interests
+- Artificial Intelligence and Machine Learning
+- LLM-based software testing
+- Test automation and software quality
+- Full-stack .NET development
+- Intelligent and reliable software systems
+
+### Technical Skills
+- **Programming:** Python, C#, JavaScript, SQL
+- **Web Development:** ASP.NET MVC, .NET, HTML, CSS
+- **Databases:** SQL Server
+- **AI/ML:** Machine Learning, Deep Learning, LLMs
+- **Software Engineering:** Software Testing, Debugging, CI/CD, Agile/Scrum
