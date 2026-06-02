@@ -76,7 +76,7 @@ redirect_from:
 **AI/ML:** Machine Learning, Deep Learning, Large Language Models, Prompt Engineering  
 **Software Engineering:** Software Testing, Test Automation, Debugging, CI/CD, Agile/Scrum, Waterfall  
 **Tools & IDEs:** Visual Studio 2017/2019/2022, SQL Server Management Studio, IBM DB2 Tool, Git, TFS, Docker  
-**Languages:** English – Proficient, German – A1, Kannada – Native  
+**Languages:** English – Proficient, German – B1, Kannada – Native  
 
 ## Certifications
 
